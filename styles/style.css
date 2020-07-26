@@ -48,3 +48,10 @@
       opacity:1;
   }
  }
+ body{
+   background-color: teal;
+ }
+ .container{
+   background-color: hotpink;
+   border: black;
+ }
